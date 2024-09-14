@@ -1,7 +1,6 @@
-[
-  {
-"PreferredDNS": "1.1.1.1"
-"PreferredDNS2": "8.8.8.8"
+{
+"PreferredDNS": "1.1.1.1",
+"PreferredDNS2": "8.8.8.8",
 "PreferredDNS3": "8.8.7.7"
 }
-]
+
